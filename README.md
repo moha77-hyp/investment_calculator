@@ -60,3 +60,12 @@ We used `io.BytesIO` to save the chart as an image in memory, and then utilized 
 - Compound Interest Calculation: accurate monthly calculation logic.
 - Data Visualization: Interactive Matplotlib charts showing total value vs. invested principal.
 - PDF Export: Generates a detailed financial report including the summary and the growth chart.
+
+<img width="1366" height="732" alt="Screenshot_2026-01-20_09-03-21" src="https://github.com/user-attachments/assets/219a37be-747b-4e82-aa37-19528a55445b" />
+
+<img width="1366" height="733" alt="Screenshot_2026-01-20_09-04-16" src="https://github.com/user-attachments/assets/0003b0d5-02b5-4fb5-9908-645de3c2af96" />
+
+<img width="485" height="295" alt="Screenshot_2026-01-20_09-04-42" src="https://github.com/user-attachments/assets/dc136957-79e9-4d75-a333-6e12aacc5eab" />
+
+<img width="587" height="597" alt="Screenshot_2026-01-20_09-05-15" src="https://github.com/user-attachments/assets/e13229df-eca0-4288-adf3-5770831be287" />
+
